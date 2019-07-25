@@ -1,19 +1,14 @@
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
+- name: Zhengyuan Pang
+  photo: pzy.png
+  info: Ph.D.
+  email:
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-  education4:
+- name: Haitian Pang
+  photo: pht.png
+  info: Ph.D.
+  email:
+
+- name: Wei Tu
+  photo: tw.png
+  info: Master
+  email:

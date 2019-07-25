@@ -1,54 +1,50 @@
 - Year: 2019
   Publications:
-    - title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-      image: PbSpub.png
-      description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-      authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-      link: 
-        url: https://arxiv.org/abs/1907.05808
-        display:  arxiv:1907.05808
-      highlight: 1
-      news2:
+    - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
+      authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
+      link: "#"
+      conference: To appear in ACM Multimedia 2019.
 
-    - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-      image: SFpub.png
-      description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-      authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-      link:
-        url: https://arxiv.org/abs/1901.00149
-        display:  arxiv:1901.00149
-      highlight: 1
-      news2:
+    - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
+      authors: Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, Xin Yao, Chenglei Wu, Jiangchuan Liu, Lifeng Sun
+      link: "#"
+      conference: To appear in ACM Multimedia 2019.
 
-    - title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-      image: DomePub.png
-      description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-      authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
-      link:
-        url: https://aip.scitation.org/doi/10.1063/1.5064442
-        display:  Rev. Sci. Instrum. 89, 123705 (2018)
-      highlight: 1
-      news2:
+    - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
+      authors: Tianchi Huang, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
+      conference: To appear in SIGCOMM 2019 posters & demos.
+
+    - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
+      authors: Xin Yao, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun
+      link: "#"
+      conference: To appear in ICIP 2019.
+
+    - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
+      authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun
+      link: http://godka.github.io/nossdav19-final10.pdf
+      conference: "NOSSDAV 2019. (**Best Student Paper**) "
+
+    - title: "Towards QoS-Aware Cloud Live Transcoding: A Deep Reinforcement Learning Approach"
+      authors: Zhengyuan Pang, Lifeng Sun, Tianchi Huang, Zhi Wang, Shiqiang Yang
+      link: http://godka.github.io/paper_17.pdf
+      conference: ICME 2019.
+
+    - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
+      authors: Tianchi Huang, Xin Yao, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun 
+      link: http://godka.github.io/ICME19-Tiyuntsong.pdf
+      conference: ICME 2019.
+
+
+
 
 - Year: 2018
   Publications:
-    - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-      image: Pub_BCl.png
-      description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-      authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-      link:
-        url: https://www.nature.com/articles/s41567-018-0300-z
-        display:  Nature Physics 14, 1183 (2018)
-      highlight: 1
-      news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-      news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+    - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
+      authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
+      link: http://godka.github.io/mm18-qarc.pdf
+      conference: ACM Multimedia 2018.
 
-    - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-      image: Fano.png
-      description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-      authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-      link:
-        url: https://aip.scitation.org/doi/10.1063/1.5043267
-        display:  Rev. Sci. Instrum. 89, 093709 (2018)
-      highlight: 0
-      news2:
+    - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
+      authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
+      link: http://godka.github.io/mm18-qarc.pdf
+      conference: ACM Multimedia 2018.

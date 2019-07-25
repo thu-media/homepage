@@ -10,68 +10,58 @@
 
 - name: Xin Yao
   photo: yaoxin.png
-  info: PhD Student, started August 2016
+  info: Ph.D. Student, started August 2016
   email: yaox16@mails.tsinghua.edu.cn
   number_educ: 1
-  education1: Bachelor in CS at Tsinghua University, 2012.08 - 2016.07
-  education2:
-  education3:
-  education4:
+  education1: B.E. in CS at Tsinghua University, 2012.08 - 2016.07
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-  education4:
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+- name: Rui-Xiao Zhang
+  photo: zrx.jpeg
+  info: Ph.D. Student, started August 2017
+  email: zhangrx17@mails.tsinghua.edu.cn
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: B.E. in EE at Tsinghua University, 2013.08 - 2017.07
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
+- name: Chenglei Wu
+  photo: wcl.jpg
+  info: Ph.D. Student, started August 2018
+  email: wucl18@mails.tsinghua.edu.cn
   number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
+  education1: Master in CS at Tsinghua University, 2015.08 - 2018.07
+  education2: B.E. in CS at Sun Yat-sen University, 2011.08 - 2015.07
   education3:
   education4:
 
-- name: Vincent Stalman
-  photo: Photo Vincent.jpg
-  info: PhD Student, started November 2018
-  email: stalman@physics.leidenuniv.nl
+- name: Tianchi Huang
+  photo: htc.jpeg
+  info: Ph.D. Student, started August 2019
+  email: htc19@mails.tsinghua.edu.cn
+  number_educ: 3
+  education1: Visit student in Media Lab at Tsinghua University, 2017.10 - 2019.07
+  education2: Master in CS at Guizhou University, 2015.08 - 2018.07
+  education3:
+  education4:
+
+- name: Lili Jiang
+  photo: jianglili.jpg
+  info: Ph.D. Student, started
+  email:
   number_educ: 1
-  education1: Master University of Amsterdam with Diego Hofman
+  education1:
   education2:
   education3:
   education4:
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+- name: Ze Meng
+  photo: mz.jpg
+  info: Master Student, started August, 2018
+  email:
+  number_educ: 1
+  education1:
 
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
+- name: Feihong Zhao
+  photo: zfh.jpg
+  info: Master Student, started August, 2018
+  email:
+  number_educ: 1
+  education1: National University of Defense Technology

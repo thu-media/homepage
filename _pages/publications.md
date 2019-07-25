@@ -16,9 +16,10 @@ permalink: /publications
 
 {% for pub in year.Publications %}
 
-  {{ pub.title }} <br />
-  <em>{{ pub.authors }} </em><br />
-  <a href="{{ pub.link.url }}">{{ pub.link.display }}</a>
+**{{ pub.title }}** <br />
+*{{ pub.authors }}* <br />
+{{ pub.conference }}
+[[PDF]]({{ pub.link }})
 
 {% endfor %}
 {% endfor %}

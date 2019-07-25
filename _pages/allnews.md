@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Media Lab - News"
 layout: textlay
 excerpt: "Media Lab at Tsinghua University"
 sitemap: false

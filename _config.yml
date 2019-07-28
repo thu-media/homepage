@@ -7,11 +7,9 @@
 
 # Site settings
 title: Media Lab in Tsinghua University
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: sunlf@tsinghua.edu.cn
+description:
+  We are the multimedia and networking lab in the Department of Computer Science and Technology at Tsinghua University. Our research interests include multimedia network streaming, content delivery, panoramic video processing and streaming, and edge intelligence.
 baseurl: ""
 url: ""
 
@@ -29,8 +27,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -42,4 +38,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-

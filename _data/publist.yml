@@ -44,7 +44,7 @@
       link: http://godka.github.io/mm18-qarc.pdf
       conference: ACM Multimedia 2018.
 
-    - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
+    - title: "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
-      link: http://godka.github.io/mm18-qarc.pdf
-      conference: ACM Multimedia 2018.
+      link: http://godka.github.io/nossdav18-delay-constrained.pdf
+      conference: NOSSDAV 2018.

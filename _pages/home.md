@@ -33,7 +33,7 @@ Our research interests include multimedia network streaming, content delivery, p
             <img src="{{ site.url }}{{ site.baseurl }}/images/team/zrx.jpeg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/1.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/team/wucl.jpeg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/1.png" alt="Slide 5" />

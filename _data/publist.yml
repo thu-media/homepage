@@ -1,6 +1,6 @@
 - Year: 2019
   Publications:
-    - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
+    - title: "Comyco: Quality-aware Adaptive Video Streaming via Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       link: "#"
       conference: To appear in ACM Multimedia 2019.
@@ -12,7 +12,7 @@
 
     - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
       authors: Tianchi Huang, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
-      conference: To appear in SIGCOMM 2019 posters & demos.
+      conference: To appear in SIGCOMM 2019 Posters & Demos.
 
     - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun

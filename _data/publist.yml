@@ -1,5 +1,10 @@
 - Year: 2019
   Publications:
+    - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
+      authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-xiao Zhang, Lifeng Sun
+      link: https://arxiv.org/abs/1908.05891
+      conference: Arxiv Preprint.
+      
     - title: "Comyco: Quality-aware Adaptive Video Streaming via Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       link: "#"
@@ -33,12 +38,19 @@
       authors: Tianchi Huang, Xin Yao, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun 
       link: http://godka.github.io/ICME19-Tiyuntsong.pdf
       conference: ICME 2019.
-
-
-
+      
+    - title: "Reactive Video Caching via long-short-term fusion approach"
+      authors: Rui-Xiao Zhang, Tianchi Huang, Chenglei Wu, Lifeng Sun
+      link: https://arxiv.org/abs/1905.06650
+      conference: Arxiv Preprint.
 
 - Year: 2018
   Publications:
+    - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
+      authors: Xin Yao, Chaofeng Huang, Lifeng Sun
+      link: "#"
+      conference: VCIP 2018.
+      
     - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
       link: http://godka.github.io/mm18-qarc.pdf

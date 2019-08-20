@@ -2,32 +2,35 @@
   Publications:
     - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun
-      file: https://arxiv.org/abs/1908.05891
+      file: https://arxiv.org/pdf/1908.05891.pdf
       conference: arXiv Preprint.
-      
+
     - title: "Comyco: Quality-aware Adaptive Video Streaming via Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
-      file: "#"
+      file: https://arxiv.org/pdf/1908.02270.pdf
+      code: https://github.com/thu-media/Comyco
       conference: To appear in ACM Multimedia 2019.
 
     - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
       authors: Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, Xin Yao, Chenglei Wu, Jiangchuan Liu, Lifeng Sun
-      file: "#"
+      file:
       conference: To appear in ACM Multimedia 2019.
 
     - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
       authors: Tianchi Huang, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
+      file: http://godka.github.io/sigcomm19posters-final10.pdf
       conference: To appear in SIGCOMM 2019 Posters & Demos.
 
     - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun
-      file: "#"
+      file: https://arxiv.org/pdf/1908.05891.pdf
+      code: https://github.com/thu-media/FedFusion
       conference: To appear in ICIP 2019.
 
     - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
       authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: http://godka.github.io/nossdav19-final10.pdf
-      conference: "NOSSDAV 2019. (**Best Student Paper**) "
+      conference: "NOSSDAV 2019. (**Best Student Paper**)"
 
     - title: "Towards QoS-Aware Cloud Live Transcoding: A Deep Reinforcement Learning Approach"
       authors: Zhengyuan Pang, Lifeng Sun, Tianchi Huang, Zhi Wang, Shiqiang Yang
@@ -36,25 +39,27 @@
 
     - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
       authors: Tianchi Huang, Xin Yao, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun 
-      file: http://godka.github.io/ICME19-Tiyuntsong.pdf
+      file: https://arxiv.org/pdf/1811.06166.pdf
+      code: https://github.com/thu-media/Tiyuntsong
       conference: ICME 2019.
       
     - title: "Reactive Video Caching via long-short-term fusion approach"
       authors: Rui-Xiao Zhang, Tianchi Huang, Chenglei Wu, Lifeng Sun
-      file: https://arxiv.org/abs/1905.06650
+      file: https://arxiv.org/pdf/1905.06650.pdf
       conference: arXiv Preprint.
 
 - Year: 2018
   Publications:
     - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
       authors: Xin Yao, Chaofeng Huang, Lifeng Sun
-      file: "#"
+      file: https://arxiv.org/pdf/1908.05891.pdf
       code: https://github.com/thu-media/TwoStreamFederatedLearning
       conference: VCIP 2018.
       
     - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
       file: http://godka.github.io/mm18-qarc.pdf
+      code: https://github.com/thu-media/QARC
       conference: ACM Multimedia 2018.
 
     - title: "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network"

@@ -4,7 +4,7 @@
 
 {% for article in site.data.news limit:6 %}
 {{ article.date }}
-<p>{{ article.headline | markdownify }}</p>
+{{ article.headline | markdownify }}
 {% endfor %}
 <br />
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">See all News</a></h4>

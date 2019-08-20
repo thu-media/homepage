@@ -20,7 +20,7 @@ permalink: /publications
 
 *{{ pub.authors }}*
 
-{{ pub.conference }} [[PDF]]({{ pub.file }}) {% if pub.code %}[[Code]]({{ pub.code }}){% endif%}
+{{ pub.conference }} {% if pub.file %}[[PDF]]({{ pub.file }}){% endif%} {% if pub.code %}[[Code]]({{ pub.code }}){% endif%}
 
 {% endfor %}
 {% endfor %}

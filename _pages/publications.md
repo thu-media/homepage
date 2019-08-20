@@ -16,10 +16,11 @@ permalink: /publications
 
 {% for pub in year.Publications %}
 
-**{{ pub.title }}** <br />
-*{{ pub.authors }}* <br />
-{{ pub.conference }}
-[[PDF]]({{ pub.link }})
+**{{ pub.title }}**
+
+*{{ pub.authors }}*
+
+{{ pub.conference }} [[PDF]]({{ pub.file }}) {% if pub.code %}[[Code]]({{ pub.code }}){% endif%}
 
 {% endfor %}
 {% endfor %}

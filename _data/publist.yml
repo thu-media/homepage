@@ -1,18 +1,18 @@
 - Year: 2019
   Publications:
     - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
-      authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-xiao Zhang, Lifeng Sun
-      link: https://arxiv.org/abs/1908.05891
-      conference: Arxiv Preprint.
+      authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun
+      file: https://arxiv.org/abs/1908.05891
+      conference: arXiv Preprint.
       
     - title: "Comyco: Quality-aware Adaptive Video Streaming via Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
-      link: "#"
+      file: "#"
       conference: To appear in ACM Multimedia 2019.
 
     - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
       authors: Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, Xin Yao, Chenglei Wu, Jiangchuan Liu, Lifeng Sun
-      link: "#"
+      file: "#"
       conference: To appear in ACM Multimedia 2019.
 
     - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
@@ -21,42 +21,43 @@
 
     - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun
-      link: "#"
+      file: "#"
       conference: To appear in ICIP 2019.
 
     - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
       authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun
-      link: http://godka.github.io/nossdav19-final10.pdf
+      file: http://godka.github.io/nossdav19-final10.pdf
       conference: "NOSSDAV 2019. (**Best Student Paper**) "
 
     - title: "Towards QoS-Aware Cloud Live Transcoding: A Deep Reinforcement Learning Approach"
       authors: Zhengyuan Pang, Lifeng Sun, Tianchi Huang, Zhi Wang, Shiqiang Yang
-      link: http://godka.github.io/paper_17.pdf
+      file: http://godka.github.io/paper_17.pdf
       conference: ICME 2019.
 
     - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
       authors: Tianchi Huang, Xin Yao, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun 
-      link: http://godka.github.io/ICME19-Tiyuntsong.pdf
+      file: http://godka.github.io/ICME19-Tiyuntsong.pdf
       conference: ICME 2019.
       
     - title: "Reactive Video Caching via long-short-term fusion approach"
       authors: Rui-Xiao Zhang, Tianchi Huang, Chenglei Wu, Lifeng Sun
-      link: https://arxiv.org/abs/1905.06650
-      conference: Arxiv Preprint.
+      file: https://arxiv.org/abs/1905.06650
+      conference: arXiv Preprint.
 
 - Year: 2018
   Publications:
     - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
       authors: Xin Yao, Chaofeng Huang, Lifeng Sun
-      link: "#"
+      file: "#"
+      code: https://github.com/thu-media/TwoStreamFederatedLearning
       conference: VCIP 2018.
       
     - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
-      link: http://godka.github.io/mm18-qarc.pdf
+      file: http://godka.github.io/mm18-qarc.pdf
       conference: ACM Multimedia 2018.
 
     - title: "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
-      link: http://godka.github.io/nossdav18-delay-constrained.pdf
+      file: http://godka.github.io/nossdav18-delay-constrained.pdf
       conference: NOSSDAV 2018.

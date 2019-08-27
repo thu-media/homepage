@@ -24,7 +24,7 @@ Our research interests include multimedia network streaming, content delivery, p
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/1.png" class="slider" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sigcomm.jpeg" class="slider" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/team/htc.png" class="slider" alt="Slide 2" />

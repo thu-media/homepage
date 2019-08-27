@@ -52,4 +52,5 @@ Our research interests include multimedia network streaming, content delivery, p
     </a>
 </div>
 
-Some other contents...
+Check [Research](/research) for the detailed information of our work and [Publication](/publications) for our recent papers!
+Welcome to follow us on [Github](https://github.com/thu-media)!

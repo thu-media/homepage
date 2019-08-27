@@ -7,6 +7,7 @@ permalink: /team
 ---
 
 # Team Members
+We are the multimedia and networking lab in the Department of Computer Science and Technology at Tsinghua University.
 
 ## Staff
 {% for member in site.data.staff %}

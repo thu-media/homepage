@@ -1,6 +1,6 @@
 # Media Lab Website
 
-This is the website of our academic research group at Tsinghua University.
+This is the website of our academic research group in the Department of Computer Science and Technology at Tsinghua University.
 
 ### Acknowledgement
 

@@ -5,6 +5,11 @@
       file: https://arxiv.org/pdf/1908.05891.pdf
       conference: arXiv Preprint.
 
+    - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
+      authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun
+      file:
+      conference: Neural Computation (Volume 31, Issue 11).
+
     - title: "Comyco: Quality-aware Adaptive Video Streaming via Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: https://arxiv.org/pdf/1908.02270.pdf
@@ -19,13 +24,13 @@
     - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
       authors: Tianchi Huang, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: http://godka.github.io/sigcomm19posters-final10.pdf
-      conference: To appear in SIGCOMM 2019 Posters & Demos.
+      conference: SIGCOMM 2019 Posters & Demos.
 
     - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
-      authors: Xin Yao, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun
+      authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun
       file: https://arxiv.org/pdf/1908.05891.pdf
       code: https://github.com/thu-media/FedFusion
-      conference: To appear in ICIP 2019.
+      conference: ICIP 2019.
 
     - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
       authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun

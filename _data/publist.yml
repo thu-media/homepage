@@ -2,7 +2,7 @@
   Publications:
     - title: "Generalizing Rate Control Strategies for Real-time Video Streaming via Learning from Deep Learning"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chenglei Wu, Xin Yao, Chao Zhou, Bing Yu, Lifeng Sun
-      file: 
+      file:
       conference: To appear in ACM Multimedia Asia 2019.
       
     - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
@@ -13,7 +13,7 @@
     - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun
       file:
-      conference: Neural Computation (Volume 31, Issue 11).
+      conference: Neural Computation 2019 (Volume 31, Issue 11).
 
     - title: "Comyco: Quality-aware Adaptive Video Streaming via Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
@@ -29,13 +29,13 @@
     - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
       authors: Tianchi Huang, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: http://godka.github.io/sigcomm19posters-final10.pdf
-      conference: SIGCOMM 2019 Posters & Demos.
+      conference: SIGCOMM 2019 Conference Posters & Demos.
 
     - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun
       file: https://arxiv.org/pdf/1908.05891.pdf
       code: https://github.com/thu-media/FedFusion
-      conference: ICIP 2019.
+      conference: IEEE International Conference on Image Processing (ICIP) 2019.
 
     - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
       authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun
@@ -45,14 +45,19 @@
     - title: "Towards QoS-Aware Cloud Live Transcoding: A Deep Reinforcement Learning Approach"
       authors: Zhengyuan Pang, Lifeng Sun, Tianchi Huang, Zhi Wang, Shiqiang Yang
       file: http://godka.github.io/paper_17.pdf
-      conference: ICME 2019.
+      conference: IEEE International Conference on Multimedia and Expo (ICME) 2019.
 
     - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
       authors: Tianchi Huang, Xin Yao, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun 
       file: https://arxiv.org/pdf/1811.06166.pdf
       code: https://github.com/thu-media/Tiyuntsong
-      conference: ICME 2019.
-      
+      conference: IEEE International Conference on Multimedia and Expo (ICME) 2019.
+
+    - title: "Towards Low Latency Multi-viewpoint 360° Interactive Video: A Multimodal Deep Reinforcement Learning Approach"
+      authors: Haitian Pang, Cong Zhang, Fangxin Wang, Jiangchuan Liu, Lifeng Sun
+      file: https://ieeexplore.ieee.org/abstract/document/8737395
+      conference: INFOCOM 2019.
+
     - title: "Reactive Video Caching via long-short-term fusion approach"
       authors: Rui-Xiao Zhang, Tianchi Huang, Chenglei Wu, Lifeng Sun
       file: https://arxiv.org/pdf/1905.06650.pdf
@@ -64,13 +69,38 @@
       authors: Xin Yao, Chaofeng Huang, Lifeng Sun
       file: https://arxiv.org/pdf/1908.05891.pdf
       code: https://github.com/thu-media/TwoStreamFederatedLearning
-      conference: VCIP 2018.
+      conference: IEEE Visual Communications and Image Processing (VCIP) 2018.
       
     - title: "QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning"
-      authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 
+      authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun
       file: http://godka.github.io/mm18-qarc.pdf
       code: https://github.com/thu-media/QARC
       conference: ACM Multimedia 2018.
+
+    - title: "Optimizing Personalized Interaction Experience in Crowd-Interactive Livecast: A Cloud-Edge Approach"
+      authors: Haitian Pang, Cong Zhang, Fangxin Wang, Han Hu, Zhi Wang, Jiangchuan Liu, Lifeng Sun
+      file: http://www.sfu.ca/~fangxinw/Papers/18-mm-pang.pdf
+      conference: ACM Multimedia 2018.
+
+    - title: "Content Harvest Network: Optimizing First Mile for Crowdsourced Live Streaming"
+      authors: Haitian Pang, Zhi Wang, Chen Yan, Qinghua Ding, Kun Yi, Jiangchuan Liu, Lifeng Sun
+      file: https://ieeexplore.ieee.org/abstract/document/8424452
+      conference: IEEE Transactions on Circuits and Systems for Video Technology, 2018 (Volume 29, Issue 7).
+
+    - title: "Joint sponsor scheduling in cellular and edge caching networks for mobile video delivery"
+      authors: Lifeng Sun, Haitian Pang, Lin Gao
+      file: https://ieeexplore.ieee.org/abstract/document/8356600
+      conference: IEEE Transactions on Multimedia, 2018 (Volume 20, Issue 12).
+
+    - title: "Toward smart and cooperative edge caching for 5g networks: A deep learning based approach"
+      authors: Haitian Pang, Jiangchuan Liu, Xiaoyi Fan, Lifeng Sun
+      file: http://iwqos2018.ieee-iwqos.org/files/2018/05/Toward_Smart_and_Cooperative_Edge_Caching.pdf
+      conference: IEEE/ACM 26th International Symposium on Quality of Service (IWQoS) 2018.
+
+    - title: "Competitive analysis of data sponsoring and edge caching for mobile video streaming"
+      authors: Haitian Pang, Lin Gao, Qinghua Ding, Jiangchuan Liu, Lifeng Sun
+      file: https://dl.acm.org/citation.cfm?id=3210451
+      conference: NOSSDAV 2018.
 
     - title: "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chao Zhou, Lifeng Sun 

@@ -55,7 +55,7 @@
 
     - title: "Towards Low Latency Multi-viewpoint 360° Interactive Video: A Multimodal Deep Reinforcement Learning Approach"
       authors: Haitian Pang, Cong Zhang, Fangxin Wang, Jiangchuan Liu, Lifeng Sun
-      file: https://ieeexplore.ieee.org/abstract/document/8737395
+      file: /downloads/infocom2019-pang-towards.pdf
       conference: INFOCOM 2019.
 
     - title: "Reactive Video Caching via long-short-term fusion approach"
@@ -79,27 +79,27 @@
 
     - title: "Optimizing Personalized Interaction Experience in Crowd-Interactive Livecast: A Cloud-Edge Approach"
       authors: Haitian Pang, Cong Zhang, Fangxin Wang, Han Hu, Zhi Wang, Jiangchuan Liu, Lifeng Sun
-      file: http://www.sfu.ca/~fangxinw/Papers/18-mm-pang.pdf
+      file: /downloads/mm18-pang-optimizing.pdf
       conference: ACM Multimedia 2018.
 
     - title: "Content Harvest Network: Optimizing First Mile for Crowdsourced Live Streaming"
       authors: Haitian Pang, Zhi Wang, Chen Yan, Qinghua Ding, Kun Yi, Jiangchuan Liu, Lifeng Sun
-      file: https://ieeexplore.ieee.org/abstract/document/8424452
+      file: /downloads/tcsvt18-pang-content.pdf
       conference: IEEE Transactions on Circuits and Systems for Video Technology, 2018 (Volume 29, Issue 7).
 
     - title: "Joint sponsor scheduling in cellular and edge caching networks for mobile video delivery"
       authors: Lifeng Sun, Haitian Pang, Lin Gao
-      file: https://ieeexplore.ieee.org/abstract/document/8356600
+      file: /downloads/tmm18-sun-joint.pdf
       conference: IEEE Transactions on Multimedia, 2018 (Volume 20, Issue 12).
 
     - title: "Toward smart and cooperative edge caching for 5g networks: A deep learning based approach"
       authors: Haitian Pang, Jiangchuan Liu, Xiaoyi Fan, Lifeng Sun
-      file: http://iwqos2018.ieee-iwqos.org/files/2018/05/Toward_Smart_and_Cooperative_Edge_Caching.pdf
+      file: /downloads/iwqos18-pang-toward.pdf
       conference: IEEE/ACM 26th International Symposium on Quality of Service (IWQoS) 2018.
 
     - title: "Competitive analysis of data sponsoring and edge caching for mobile video streaming"
       authors: Haitian Pang, Lin Gao, Qinghua Ding, Jiangchuan Liu, Lifeng Sun
-      file: https://dl.acm.org/citation.cfm?id=3210451
+      file: /downloads/nossdav18-pang-competitive.pdf
       conference: NOSSDAV 2018.
 
     - title: "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network"

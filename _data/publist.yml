@@ -7,7 +7,7 @@
 
     - title: "Generalizing Rate Control Strategies for Real-time Video Streaming via Learning from Deep Learning"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chenglei Wu, Xin Yao, Chao Zhou, Bing Yu, Lifeng Sun
-      file:
+      file: http://godka.github.io/mmasia19-aqarc.pdf
       conference: To appear in ACM Multimedia Asia 2019.
       
     - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"

@@ -1,3 +1,15 @@
+- Year: 2020
+  Publications:
+     - title: "Stick: A Harmonious Fusion of Buffer-based and Learning-based Approach for Adaptive Streaming"
+      authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
+      file: 
+      conference: To appear in INFOCOM 2020.
+      
+    - title: "A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video"
+      authors: Chenglei Wu, Rui-Xiao Zhang, Zhi Wang, Lifeng Sun
+      file: 
+      conference: To appear in AAAI 2020.
+      
 - Year: 2019
   Publications:
     - title: "Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating"

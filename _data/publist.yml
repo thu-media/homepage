@@ -1,5 +1,15 @@
 - Year: 2020
   Publications:
+    - title: "Self-play Reinforcement Learning for Video Transmission"
+      authors: Tianchi Huang, Rui-Xiao Zhang, Lifeng Sun
+      file:
+      conference: To appear in NOSSDAV 2020.
+      
+    - title: "Quality-aware Neural Adaptive Video Streaming with Lifelong Imitation Learning"
+      authors: Tianchi Huang, Chao Zhou, Xin Yao, Rui-Xiao Zhang, Chenglei Wu, Bing Yu, Lifeng Sun
+      file:
+      conference: To appear in IEEE Journal on Selected Areas in Communications (JSAC).
+      
     - title: "Stick: A Harmonious Fusion of Buffer-based and Learning-based Approach for Adaptive Streaming"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: 

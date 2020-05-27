@@ -1,24 +1,41 @@
 - Year: 2020
   Publications:
+    - title: "DeepMPC: A Mixture ABR Approach via Deep Learning and MPC"
+      authors: Tianchi Huang, Lifeng Sun
+      file:
+      conference: To appear in IEEE International Conference on Image Processing (ICIP) 2020.
+
+    - title: "Continual Local Training for Better Initialization of Federated Models"
+      authors: Xin Yao, Lifeng Sun
+      file: https://arxiv.org/pdf/2005.12657.pdf
+      code: https://github.com/thu-media/FedCL
+      conference: To appear in IEEE International Conference on Image Processing (ICIP) 2020.
+
     - title: "Self-play Reinforcement Learning for Video Transmission"
       authors: Tianchi Huang, Rui-Xiao Zhang, Lifeng Sun
-      file:
+      file: http://godka.github.io/nossdav20.pdf
+      code: https://github.com/thu-media/Zwei
       conference: To appear in NOSSDAV 2020.
-      
+
+    - title: "A Practical Learning-based Approach for Viewer Scheduling in the Crowdsourced Live Streaming"
+      authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun
+      file:
+      conference: To appear in ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
+
     - title: "Quality-aware Neural Adaptive Video Streaming with Lifelong Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Xin Yao, Rui-Xiao Zhang, Chenglei Wu, Bing Yu, Lifeng Sun
       file:
       conference: To appear in IEEE Journal on Selected Areas in Communications (JSAC).
-      
+
     - title: "Stick: A Harmonious Fusion of Buffer-based and Learning-based Approach for Adaptive Streaming"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: 
       conference: To appear in INFOCOM 2020.
-      
+
     - title: "A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video"
       authors: Chenglei Wu, Rui-Xiao Zhang, Zhi Wang, Lifeng Sun
-      file: 
-      conference: To appear in AAAI 2020.
+      file: https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WuC.481.pdf
+      conference: The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20).
       
 - Year: 2019
   Publications:
@@ -30,7 +47,7 @@
     - title: "Generalizing Rate Control Strategies for Real-time Video Streaming via Learning from Deep Learning"
       authors: Tianchi Huang, Rui-Xiao Zhang, Chenglei Wu, Xin Yao, Chao Zhou, Bing Yu, Lifeng Sun
       file: http://godka.github.io/mmasia19-aqarc.pdf
-      conference: To appear in ACM Multimedia Asia 2019.
+      conference: ACM Multimedia Asia 2019.
       
     - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun

@@ -1,5 +1,10 @@
 - Year: 2020
   Publications:
+     - title: "Optimized Bitrate Ladders for Adaptive Video Streaming with Deep Reinforcement Learning"
+      authors: Tianchi Huang, Lifeng Sun
+      file:
+      conference: To appear in SIGCOMM 2020 Conference Posters & Demos.
+      
     - title: "DeepMPC: A Mixture ABR Approach via Deep Learning and MPC"
       authors: Tianchi Huang, Lifeng Sun
       file:
@@ -74,7 +79,7 @@
     - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
       authors: Tianchi Huang, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: http://godka.github.io/sigcomm19posters-final10.pdf
-      conference: SIGCOMM 2019 Conference Posters & Demos.
+      conference: ACM SIGCOMM 2019 Conference Posters & Demos.
 
     - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
       authors: Xin Yao, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun

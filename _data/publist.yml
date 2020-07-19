@@ -1,6 +1,6 @@
 - Year: 2020
   Publications:
-     - title: "Optimized Bitrate Ladders for Adaptive Video Streaming with Deep Reinforcement Learning"
+    - title: "Optimized Bitrate Ladders for Adaptive Video Streaming with Deep Reinforcement Learning"
       authors: Tianchi Huang, Lifeng Sun
       file:
       conference: To appear in SIGCOMM 2020 Conference Posters & Demos.

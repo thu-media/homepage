@@ -1,41 +1,46 @@
 - Year: 2020
   Publications:
+    - title: "Deep Reinforced Bitrate Ladders for Adaptive Video Streaming"
+      authors: Tianchi Huang, Rui-Xiao Zhang, Lifeng Sun
+      file:
+      conference: To appear in NOSSDAV 2021.
+      
     - title: "Optimized Bitrate Ladders for Adaptive Video Streaming with Deep Reinforcement Learning"
       authors: Tianchi Huang, Lifeng Sun
       file:
-      conference: To appear in SIGCOMM 2020 Conference Posters & Demos.
+      conference: SIGCOMM 2020 Conference Posters & Demos.
       
     - title: "DeepMPC: A Mixture ABR Approach via Deep Learning and MPC"
       authors: Tianchi Huang, Lifeng Sun
       file:
-      conference: To appear in IEEE International Conference on Image Processing (ICIP) 2020.
+      conference: IEEE International Conference on Image Processing (ICIP) 2020.
 
     - title: "Continual Local Training for Better Initialization of Federated Models"
       authors: Xin Yao, Lifeng Sun
       file: https://arxiv.org/pdf/2005.12657.pdf
       code: https://github.com/thu-media/FedCL
-      conference: To appear in IEEE International Conference on Image Processing (ICIP) 2020.
+      conference: IEEE International Conference on Image Processing (ICIP) 2020.
 
     - title: "Self-play Reinforcement Learning for Video Transmission"
       authors: Tianchi Huang, Rui-Xiao Zhang, Lifeng Sun
       file: http://godka.github.io/nossdav20.pdf
       code: https://github.com/thu-media/Zwei
-      conference: To appear in NOSSDAV 2020.
+      conference: NOSSDAV 2020.
 
     - title: "A Practical Learning-based Approach for Viewer Scheduling in the Crowdsourced Live Streaming"
       authors: Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, Xin Yao, Chenglei Wu, Lifeng Sun
       file:
-      conference: To appear in ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
+      conference: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
 
     - title: "Quality-aware Neural Adaptive Video Streaming with Lifelong Imitation Learning"
       authors: Tianchi Huang, Chao Zhou, Xin Yao, Rui-Xiao Zhang, Chenglei Wu, Bing Yu, Lifeng Sun
       file:
-      conference: To appear in IEEE Journal on Selected Areas in Communications (JSAC).
+      conference: IEEE Journal on Selected Areas in Communications (JSAC).
 
     - title: "Stick: A Harmonious Fusion of Buffer-based and Learning-based Approach for Adaptive Streaming"
       authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Xin Yao, Chenglei Wu, Lifeng Sun
       file: 
-      conference: To appear in INFOCOM 2020.
+      conference: INFOCOM 2020.
 
     - title: "A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video"
       authors: Chenglei Wu, Rui-Xiao Zhang, Zhi Wang, Lifeng Sun

@@ -1,14 +1,25 @@
-- Year: 2020
+- Year: 2021
   Publications:
+    - title: "Deadline and Priority-aware Congestion Control for Delay-sensitive Multimedia Streaming"
+      authors: Chao Zhou, Wenjun Wu, Dan Yang, Tianchi Huang, Liang Guo, Bing Yu
+      file:
+      conference: To appear in ACM Multimedia 2021 Grand Challenge.
+      
     - title: "Deep Reinforced Bitrate Ladders for Adaptive Video Streaming"
       authors: Tianchi Huang, Rui-Xiao Zhang, Lifeng Sun
       file:
       conference: To appear in NOSSDAV 2021.
-      
+    
+- Year: 2020
     - title: "Optimized Bitrate Ladders for Adaptive Video Streaming with Deep Reinforcement Learning"
       authors: Tianchi Huang, Lifeng Sun
       file:
       conference: SIGCOMM 2020 Conference Posters & Demos.
+    
+    - title: "Leveraging QoE Heterogenity for Large-Scale Livecaset Scheduling"
+      authors: Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Hanyu Li, Jiangchuan Liu, Lifeng Sun
+      file:
+      conference: ACM Multimedia 2020.
       
     - title: "DeepMPC: A Mixture ABR Approach via Deep Learning and MPC"
       authors: Tianchi Huang, Lifeng Sun

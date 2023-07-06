@@ -1,14 +1,51 @@
+- Year: 2022
+  Publications:
+    - title: "Learning Tailored Adaptive Bitrate Algorithms to Heterogeneous Network Conditions: A Domain-Specific Priors and Meta-Reinforcement Learning Approach"
+      authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Chenglei Wu, Lifeng Sun
+      file:
+      conference: IEEE JSAC.
+
+    - title: "Zwei: A Self-Play Reinforcement Learning Framework for Video Transmission Services"
+      authors: Tianchi Huang, Rui-Xiao Zhang, Lifeng Sun
+      file:
+      conference: IEEE TMM
+
+    - title: "Distance-aware Multi-Agent Reinforcement Learning for Task Offloading in MEC Network"
+      authors: Lili Jiang, Lifeng Sun, Wenwu Zhu
+      file:
+      conference: HPCC/DSS/SmartCity/DependSys 2022.
+
+    - title: "ZiXia: A Reinforcement Learning Approach via Adjusted Ranking Reward for Internet Congestion Control"
+      authors: Lianchen Jia, Tianchi Huang, Lifeng Sun
+      file:
+      conference: ICC 2022.
+
+    - title: "AggCast: Practical Cost-effective Scheduling for Large-scale Cloud-edge Crowdsourced Live Streaming"
+      authors: Rui-Xiao Zhang, Changpeng Yang, Xiaochan Wang, Tianchi Huang, Chenglei Wu, Jiangchuan Liu, Lifeng Sun
+      file:
+      conference: ACM Multimedia 2022.
+
+    - title: "Learned Internet Congestion Control for Short Video Uploading"
+      authors: Tianchi Huang, Chao Zhou, Lianchen Jia, Rui-Xiao Zhang, Lifeng Sun
+      file:
+      conference: ACM Multimedia 2022.
+      
+    - title: "Federated Knowledge Transfer for Heterogeneous Visual Models"
+      authors: Wenzhe Li, Zirui Zhu, Tianchi Huang, Lifeng Sun, Chun Yuan
+      file:
+      conference: MMAsia 2022.
+
 - Year: 2021
   Publications:
     - title: "Deadline and Priority-aware Congestion Control for Delay-sensitive Multimedia Streaming"
       authors: Chao Zhou, Wenjun Wu, Dan Yang, Tianchi Huang, Liang Guo, Bing Yu
       file:
-      conference: To appear in ACM Multimedia 2021 Grand Challenge.
+      conference: ACM Multimedia 2021 Grand Challenge.
       
     - title: "Deep Reinforced Bitrate Ladders for Adaptive Video Streaming"
       authors: Tianchi Huang, Rui-Xiao Zhang, Lifeng Sun
       file:
-      conference: To appear in NOSSDAV 2021.
+      conference: NOSSDAV 2021.
       
 - Year: 2020
   Publications:

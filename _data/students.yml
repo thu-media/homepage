@@ -18,3 +18,12 @@
   education3:
   education4:
 
+- name: A test student
+  photo: jilianchen.jpg
+  info: Ph.D. Student, started
+  email:
+  number_educ: 2
+  education1:
+  education2:
+  education3:
+  education4:

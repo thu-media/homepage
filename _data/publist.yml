@@ -1,3 +1,33 @@
+- Year: 2023
+  Publications:
+    - title: "Practical Cloud-Edge Scheduling for Large-Scale Crowdsourced Live Streaming"
+      authors: Rui-Xiao Zhang, Changpeng Yang, Xiaochan Wang, Tianchi Huang, Chenglei Wu, Jiangchuan Liu, Lifeng Sun
+      file:
+      conference: TPDS
+    - title: "Buffer Awareness Neural Adaptive Video Streaming for Avoiding Extra Buffer Consumption"
+      authors: Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, Chenglei Wu, Lifeng Sun
+      file:
+      conference: Infocom23
+    - title: "RDladder: Resolution-Duration Ladder for VBR-encoded Videos via Imitation Learning"
+      authors: Lianchen Jia, Chao Zhou, Tianchi Huang, Chaoyang Li, Lifeng Sun
+      file:
+      conference: Infocom23
+    - title: "Who is the Rising Star? Demystifying the Promising Streamers in Crowdsourced Live Streaming"
+      authors: Rui-Xiao Zhang, Tianchi Huang, Chenglei Wu, Lifeng Sun
+      file:
+      conference: Infocom23
+    - title: "Owl: A Pre-and Post-processing Framework for Video Analytics in Low-light Surroundings"
+      authors: Rui-Xiao Zhang, Chaoyang Li, Chenglei Wu, Tianchi Huang, Lifeng Sun
+      file:
+      conference: Infocom23
+    - title: "Optimizing Adaptive Video Streaming with Human Feedback"
+      authors: 	Tianchi Huang, Rui-Xiao Zhang, Chenglei Wu, Lifeng Sun
+      file:
+      conference: MM23
+    - title: "Chaoyang Li, Rui-Xiao Zhang, Tianchi Huang, Lianchen Jia, Lifeng Sun"
+      authors: 	Tianchi Huang, Rui-Xiao Zhang, Chenglei Wu, Lifeng Sun
+      file:
+      conference: MM23
 - Year: 2022
   Publications:
     - title: "Learning Tailored Adaptive Bitrate Algorithms to Heterogeneous Network Conditions: A Domain-Specific Priors and Meta-Reinforcement Learning Approach"
